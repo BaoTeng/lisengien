@@ -1,1 +1,1 @@
-{"open": 0, "url": "https:\/\/www.aegaming.info\/#\/app01"}
+{"open": 1, "url": "https:\/\/www.aegaming.info\/#\/app01"}
